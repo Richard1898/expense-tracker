@@ -1,1 +1,17 @@
-[]
+[
+    {
+        "Nosaukums": "Salmon",
+        "Summa": "11.99",
+        "Kategorija": "Produkti"
+    },
+    {
+        "Nosaukums": "Blender",
+        "Summa": "29.99",
+        "Kategorija": "Tehnika"
+    },
+    {
+        "Nosaukums": "pe",
+        "Summa": 76,
+        "Kategorija": "niz"
+    }
+]
