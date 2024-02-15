@@ -47,10 +47,10 @@ while True:
         summ = 0
         o=0
         for x in expenses:
-             summ += x['Summa'] 
-             o += 1
+            summ += float(x["Summa"])
+            o += 1
         Videja = summ / o
-    print(Videja)
+        print(Videja)
     if command == "e":
         print("Exiting...")
         break
